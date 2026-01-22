@@ -37,5 +37,6 @@
 
 <div align="center">
 
-![alt text](touhou-touhou-project.gif)
+![touhou-touhou-project](https://github.com/user-attachments/assets/58484c7a-b52d-4eae-a515-690f8b06363e)
+
 </div>
