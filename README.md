@@ -36,5 +36,6 @@
 ---
 
 <div align="center">
-  <img src="https://tenor.com/pt-BR/view/touhou-touhou-project-sagume-kishin-hecatia-lapislazuli-clownpiece-gif-25894004"/>
+![touhou-touhou-project](https://github.com/user-attachments/assets/031af23a-a48d-4060-ac6c-9d789227f4f5)
+
 </div>
