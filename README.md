@@ -1,10 +1,9 @@
 <h2 align="left">👋 Meu GitHub</h2>
 
 ### 📊 Estatísticas
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PetrusTF1-bip&show_icons=true&count_private=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetrusTF1-bip&layout=compact&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PetrusTF1-bip&show_icons=true&count_private=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetrusTF1-bip&layout=compact&theme=dracula" height="150" />
 </div>
 
 ---
