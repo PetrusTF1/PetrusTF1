@@ -18,7 +18,7 @@
 ### 📱 Redes Sociais
 
 <div align="left">
-  <a href="https://instagram.com/SEU_USUARIO">
+  <a href="https://www.instagram.com/petrus513801?igsh=cWd5b2QwdzdqZnp6">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
   </a>
 
