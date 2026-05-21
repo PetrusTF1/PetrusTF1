@@ -1,6 +1,11 @@
 <h2 align="left">👋 Meu GitHub</h2>
-
 <img align="right" height="150" src="https://github.com/user-attachments/assets/b62ef19e-cc46-494f-ac26-bcf432e1c293"/>
+
+### 💻 Frameworks que utilizo
+
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="35">
+</div>
 
 ### 💻 Linguagens que utilizo
 
@@ -10,7 +15,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="35">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="35">
 </div>
 
 ---
