@@ -1,5 +1,5 @@
 <h2 align="left">👋 Meu GitHub</h2>
-<img align="right" height="150" src="https://github.com/user-attachments/assets/b62ef19e-cc46-494f-ac26-bcf432e1c293"/>
+
 
 ### 💻 Frameworks que utilizo
 
