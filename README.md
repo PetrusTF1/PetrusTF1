@@ -1,5 +1,6 @@
-<h2 align="left">👋 Meu GitHub</h2>
+<h2 align="center">👋 Meu GitHub</h2>
 
+<h3 align="center">Olá, sou estudante e publico meus projetos pessoais nesse github</h3>
 
 ### 💻 Frameworks que utilizo
 
