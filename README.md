@@ -21,19 +21,6 @@ Olá, sou estudante e publico meus projetos pessoais nesse GitHub</h3>
 </div>
 
 ---
-
-### 📱 Redes Sociais
-
-<div align="left">
-  <a href="https://www.instagram.com/petrus513801?igsh=cWd5b2QwdzdqZnp6">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
-  </a>
-
-  <a href="https://discord.gg/SEU_LINK">
-    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge"/>
-  </a>
-</div>
-
 ---
  <img width="1000" height="300" alt="saber-судьба" src="https://github.com/user-attachments/assets/0f4630d4-7a88-4020-a88c-d84909ded895"/>
 
