@@ -1,6 +1,7 @@
-<h2 align="center">👋 Meu GitHub</h2>
+## 🤖GitHub de Petrus
 
-<h3 align="center">Olá, sou estudante e publico meus projetos pessoais nesse github</h3>
+Olá, sou estudante e publico meus projetos pessoais nesse GitHub</h3>
+
 
 ### 💻 Frameworks que utilizo
 
@@ -34,9 +35,7 @@
 </div>
 
 ---
+ <img width="498" height="269" alt="saber-saber-alter" src="https://github.com/user-attachments/assets/4f69ed97-5f7c-46fb-8893-980fb22c3a67" />
+ <img width="498" height="269" alt="saber-судьба" src="https://github.com/user-attachments/assets/0f4630d4-7a88-4020-a88c-d84909ded895" />
 
-<div align="center">
 
-![touhou-touhou-project](https://github.com/user-attachments/assets/58484c7a-b52d-4eae-a515-690f8b06363e)
-
-</div>
