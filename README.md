@@ -1,8 +1,12 @@
-## 🤖GitHub de Petrus
+<div align="center">
+  
+# 🤖GitHub de Petrus
 
 Olá, sou estudante e publico meus projetos pessoais nesse GitHub</h3>
 
+</div>
 
+---
 ### 💻 Frameworks que utilizo
 
 <div align="left">
@@ -20,7 +24,6 @@ Olá, sou estudante e publico meus projetos pessoais nesse GitHub</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="35">
 </div>
 
----
 ---
  <img width="1000" height="300" alt="saber-судьба" src="https://github.com/user-attachments/assets/0f4630d4-7a88-4020-a88c-d84909ded895"/>
 
