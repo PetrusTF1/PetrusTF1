@@ -4,6 +4,7 @@
 
 Olá, sou estudante e publico meus projetos pessoais nesse GitHub</h3>
 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
 ---
@@ -12,7 +13,7 @@ Olá, sou estudante e publico meus projetos pessoais nesse GitHub</h3>
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="35">
 </div>
-
+  
 ### 💻 Linguagens que utilizo
 
 <div align="left">
