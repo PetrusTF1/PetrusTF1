@@ -35,6 +35,6 @@ Olá, sou estudante e publico meus projetos pessoais nesse GitHub</h3>
 </div>
 
 ---
- <img width="498" height="269" alt="saber-судьба" src="https://github.com/user-attachments/assets/0f4630d4-7a88-4020-a88c-d84909ded895"/>  <img width="498" height="269" alt="saber-saber-alter" src="https://github.com/user-attachments/assets/4f69ed97-5f7c-46fb-8893-980fb22c3a67" />
+ <img width="1000" height="300" alt="saber-судьба" src="https://github.com/user-attachments/assets/0f4630d4-7a88-4020-a88c-d84909ded895"/>
 
 
