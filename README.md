@@ -22,7 +22,7 @@
   <code><img height="52" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python"> </code>
   <code><img height="52" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java"></code>
   
-## 🔨 𝑰𝑫𝑬𝒔
+### 💻 𝑰𝑫𝑬𝒔
 <code><img height="52" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VScode"></code>
 
 ---
