@@ -2,7 +2,7 @@
   
 # 👋  Petrus's GitHub
 
- Hi, I'm a student and I publish my personal projects on this GitHub.</h3>
+ Hi, I'm a student and I publish my personal projects on my GitHub.</h3>
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
